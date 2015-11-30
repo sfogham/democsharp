@@ -10,8 +10,7 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world !!!");
-            Console.WriteLine("Hello world from dev branch !!!");
+            Console.WriteLine("Hello world from dev branch!!!");
         }
     }
 }
