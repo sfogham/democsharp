@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LocarchiveConsoleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fichier" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\temp\locarchive\locarchive.csv</Value>
+    </Setting>
+    <Setting Name="MSG001" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Injection du fichier ...</Value>
+    </Setting>
+    <Setting Name="MSG000" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Vérification entête du fichier ...</Value>
+    </Setting>
+    <Setting Name="MSGEND" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FIN !</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
