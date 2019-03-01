@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\MNA558\\source\\repos\\demos\\democsharp\\Demo.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

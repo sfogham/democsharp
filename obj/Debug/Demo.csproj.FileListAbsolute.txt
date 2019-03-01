@@ -1,2 +1,8 @@
 C:\demo\Demo\bin\Debug\Demo.exe.config
 C:\demo\bin\Debug\Demo.exe.config
+c:\Users\MNA558\source\repos\demos\democsharp\bin\Debug\Demo.exe.config
+c:\Users\MNA558\source\repos\demos\democsharp\bin\Debug\Demo.exe
+c:\Users\MNA558\source\repos\demos\democsharp\bin\Debug\Demo.pdb
+c:\Users\MNA558\source\repos\demos\democsharp\obj\Debug\Demo.exe
+c:\Users\MNA558\source\repos\demos\democsharp\obj\Debug\Demo.pdb
+c:\Users\MNA558\source\repos\demos\democsharp\obj\Debug\Demo.csprojResolveAssemblyReference.cache
